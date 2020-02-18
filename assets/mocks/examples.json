@@ -2,14 +2,14 @@
   {
     "id": 1,
     "name": "NPM", 
-    "type": "FrontEnd",
-    "preview": "../assets/images/npm.png"
+    "type": "FrontEnd"
+   
   },
   {
     "id": 2,
     "name": "MS SQL",
-    "type": "Database",
-    "preview": "../assets/images/mssql.png"
+    "type": "Database"
+  
   },
   {
     "id": 3,
