@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "NPM", 
+    "type": "FrontEnd",
+    "preview": "./assets/images/npm.png"
+  },
+  {
+    "id": 2,
+    "name": "MS SQL",
+    "type": "Database",
+    "preview": "./assets/images/mssql.png"
+  },
+  {
+    "id": 3,
+    "name": "C#", 
+    "type": "Languages",
+    "preview": "./assets/images/csharp.png"
+  },
+  {
+    "id": 4,
+    "name": "MY SQL",
+    "type": "Database",
+    "preview": "./assets/images/mysql.png"
+  },
+  {
+    "id": 5,
+    "name": "Python", 
+    "type": "Languages",
+    "preview": "./assets/images/python.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HTML5",
+    "type": "FrontEnd",
+    "preview": "./assets/images/html.png"
+  },
+  {
+    "id": 7,
+    "name": "React JS",
+    "type": "FrontEnd",
+    "preview": "./assets/images/react.png"
+  },
+  {
+    "id": 8,
+    "name": "Node JS",
+    "type": "FrontEnd",
+    "preview": "./assets/images/node.png"
+  },
+  {
+    "id": 9,
+    "name": "BootStrap",
+    "type": "FrontEnd",
+    "preview": "./assets/images/bootstrap.png"
+  },
+  {
+    "id": 10,
+    "name": "Java Script",
+    "type": "FrontEnd",
+    "preview": "./assets/images/js.png"
+  },
+  {
+    "id": 11,
+    "name": "CSS",
+    "type": "FrontEnd",
+    "preview": "./assets/images/css.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Angular JS",
+    "type": "FrontEnd",
+    "preview": "./assets/images/AngularJS.png"
+  }
+]
